@@ -32,3 +32,4 @@
   
 </div>
 
+![Snake animation](https://github.com/olucasyuri/olucasyuri/blod/output/github-contribution-grid-snake.svg)
