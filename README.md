@@ -1,13 +1,7 @@
-## Olá! Eu sou o Lucas Yuri
-
-- 🔭 Hoje trabalho na Softcom Tecnologia
-- 🌱 Estudando Python
-- 💬 Contate-me no email: lucasyurisilvabarbosa@gmail.com
-- 😄 Pronouns: ele/dele
+## Hi, I'm Lucas Yuri   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=olucasyuri&show_icons=true&theme=default_repocard)](https://github.com/olucasyuri/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=olucasyuri&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/olucasyuri/github-readme-stats#gh-light-mode-only)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucasyuri&layout=compact)](https://github.com/olucasyuri/github-readme-stats)
 
 
@@ -32,4 +26,5 @@
   
 </div>
 
-![Snake animation](https://github.com/olucasyuri/olucasyuri/blod/output/github-contribution-grid-snake.svg)
+   <img align="center" alt="Yuri-HTML" height="" width="" src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67">
+
